@@ -110,5 +110,3 @@ class App extends React.Component {
 }
 
 ReactDOM.render(<App />, document.getElementById("app"));
-
-// git@github.com:shihabus/unlearn-react.git
